@@ -21,10 +21,10 @@ This project automates irrigation based on soil moisture levels to optimize wate
 
 ---
 
-## 🌱 **Automated Soil Test Report Generator (AGRISPHERE)**
+## 🌱 **Automated Soil Test Report Generator (AGROSPHERE)**
 
 ### Overview
-AGRISPHERE is an automated solution to provide farmers with comprehensive soil health reports, including NPK levels, pH, EC, temperature, and humidity.
+AGROSPHERE is an automated solution to provide farmers with comprehensive soil health reports, including NPK levels, pH, EC, temperature, and humidity.
 
 ### Key Features
 - **Real-Time Data Collection**: Measures NPK nutrient levels using sensors.
