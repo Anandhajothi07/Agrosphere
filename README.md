@@ -1,6 +1,6 @@
-# AgriTech Projects Repository
+# AgroSphere
 
-Welcome to the **AgriTech Projects Repository**! This repository serves as a comprehensive hub for our innovative agricultural automation projects, aiming to revolutionize farming practices with cutting-edge technology. Below are the highlights of our projects:
+Welcome to the **Agrosphere Projects Repository**! This repository serves as a comprehensive hub for our innovative agricultural automation projects, aiming to revolutionize farming practices with cutting-edge technology. Below are the highlights of our projects:
 
 ---
 
